@@ -1,0 +1,22 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#050505"/><stop offset="50%" stop-color="#08120d"/><stop offset="100%" stop-color="#000000"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g opacity=".12" stroke="#00ff88">
+<path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200M0 250H1200"/>
+<path d="M50 0V300M100 0V300M150 0V300M200 0V300M250 0V300M300 0V300M350 0V300M400 0V300M450 0V300M500 0V300M550 0V300M600 0V300M650 0V300M700 0V300M750 0V300M800 0V300M850 0V300M900 0V300M950 0V300M1000 0V300M1050 0V300M1100 0V300M1150 0V300"/>
+</g>
+<g font-family="monospace" fill="#00ff88" opacity=".25">
+<text x="40" y="40">01001101 01000101 01001110 01001111 01001110</text>
+<text x="720" y="70">0x5345434F5053</text>
+<text x="60" y="270">DETECT // INVESTIGATE // HUNT // RESPOND</text>
+</g>
+<text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="#fff">KIRAN MENON</text>
+<text x="600" y="165" text-anchor="middle" font-family="monospace" font-size="20" fill="#00ff88">CYBERSECURITY // SOC // THREAT HUNTING // GRC</text>
+<line x1="250" y1="190" x2="950" y2="190" stroke="#00ff88" opacity=".6"/>
+<text x="600" y="225" text-anchor="middle" font-family="monospace" font-size="15" fill="#aaa">SECURITY OPERATIONS • INCIDENT RESPONSE • SECURITY GOVERNANCE</text>
+<text x="600" y="260" text-anchor="middle" font-family="monospace" font-size="12" fill="#555">AUTHORIZED SECURITY RESEARCH ONLY</text>
+</svg>

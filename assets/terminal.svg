@@ -1,0 +1,13 @@
+<svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="360" rx="12" fill="#050505" stroke="#222" stroke-width="2"/>
+<circle cx="25" cy="25" r="6" fill="#555"/><circle cx="45" cy="25" r="6" fill="#555"/><circle cx="65" cy="25" r="6" fill="#555"/>
+<text x="100" y="31" font-family="monospace" font-size="13" fill="#777">KIRAN@SECOPS</text>
+<text x="35" y="80" font-family="monospace" font-size="18" fill="#00ff88">$ whoami</text>
+<text x="35" y="110" font-family="monospace" font-size="18" fill="#fff">Kiran Dikshit Menon</text>
+<text x="35" y="150" font-family="monospace" font-size="18" fill="#00ff88">$ cat role.txt</text>
+<text x="35" y="180" font-family="monospace" font-size="16" fill="#ccc">SOC Analyst / Threat Hunter / GRC</text>
+<text x="35" y="220" font-family="monospace" font-size="18" fill="#00ff88">$ cat focus.txt</text>
+<text x="35" y="250" font-family="monospace" font-size="15" fill="#ccc">SIEM • Detection • IR • Threat Hunting</text>
+<text x="35" y="278" font-family="monospace" font-size="15" fill="#ccc">Network Security • DFIR • GRC • Risk</text>
+<text x="35" y="320" font-family="monospace" font-size="16" fill="#00ff88">$ echo "learn → investigate → document → improve"</text>
+</svg>
