@@ -6,7 +6,7 @@
 
 [![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO-SOC%20%26%20CYBERSECURITY%20OPPORTUNITIES-70f59b?style=for-the-badge&labelColor=07101d)](mailto:kiranmenon16@gmail.com)
 
-Portfolios
+# Portfolios
 
 https://kdmenon007.github.io/
 
