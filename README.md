@@ -59,6 +59,8 @@ I am a cybersecurity professional focused on **security operations, threat hunti
 
 [![CANVA PORTFOLIO](https://img.shields.io/badge/CANVA%20PORTFOLIO-Kiran%20Menon-00ff88?style=for-the-badge&logo=canva&logoColor=white)](https://kiranmenon.my.canva.site/)
 
+[![FRAMER PORTFOLIO](https://img.shields.io/badge/FRAMER%20PORTFOLIO-Kiran%20Menon-00ff88?style=for-the-badge&logo=framer&logoColor=white)](https://kiranmenon.framer.website/)
+
 </div>
 
 ## `security_operations`
