@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050914"/>
+    <stop offset=".55" stop-color="#071a28"/>
+    <stop offset="1" stop-color="#07101d"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" x2="1">
+    <stop stop-color="#21d4fd"/>
+    <stop offset="1" stop-color="#70f59b"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#21d4fd" stroke-opacity=".08"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<circle cx="1030" cy="110" r="120" fill="#21d4fd" opacity=".07"/>
+<circle cx="1030" cy="110" r="75" fill="none" stroke="#21d4fd" stroke-opacity=".18"/>
+<path d="M0 246 C180 205 260 276 430 235 S730 208 900 242 S1080 264 1200 215" fill="none" stroke="#21d4fd" stroke-opacity=".25"/>
+<path d="M0 260 C180 219 260 290 430 249 S730 222 900 256 S1080 278 1200 229" fill="none" stroke="#70f59b" stroke-opacity=".16"/>
+<g font-family="monospace">
+  <text x="65" y="72" font-size="13" fill="#70f59b">KIRAN@SECOPS:~$ whoami</text>
+  <text x="65" y="128" font-size="38" font-weight="700" fill="#eef6ff">KIRAN DIKSHIT MENON A</text>
+  <text x="68" y="163" font-size="15" letter-spacing="3" fill="#21d4fd">SOC ANALYST  //  THREAT HUNTER  //  INCIDENT RESPONSE</text>
+  <text x="68" y="203" font-size="12" fill="#8da0b8">SIEM • EDR • DFIR • SOAR • THREAT INTELLIGENCE • NETWORK SECURITY</text>
+  <text x="1000" y="70" font-size="12" fill="#70f59b" filter="url(#glow)">STATUS: ONLINE</text>
+  <text x="1010" y="95" font-size="11" fill="#8da0b8">SECURITY_OPERATIONS</text>
+</g>
+</svg>
