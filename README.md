@@ -1,3 +1,12 @@
+### Final `README.md`
+
+````markdown
+<div align="center">
+
+<a href="https://kdmenon007.github.io/">
+  <img src="./assets/profile.png" width="180" alt="Kiran Dikshit Menon"/>
+</a>
+
 # `KIRAN DIKSHIT MENON A`
 
 ### `SOC ANALYST L2` · `THREAT DETECTION` · `THREAT HUNTING` · `INCIDENT RESPONSE`
@@ -495,4 +504,4 @@ Volume 9 · Issue 5 · May 2019 · ISSN 2250-1371
 </div>
 ```
 
-
+One more thing: the `github-readme-stats.vercel.app` cards from your old README are **not necessary**. I removed them because your own metrics are much more relevant for an SOC recruiter than generic GitHub language/activity charts. Your README now sells **security evidence**, not coding vanity metrics.
