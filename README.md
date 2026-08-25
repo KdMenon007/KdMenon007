@@ -1,10 +1,3 @@
-````markdown
-<div align="center">
-
-<a href="https://kdmenon007.github.io/">
-  <img src="./assets/profile.png" width="180" alt="Kiran Dikshit Menon"/>
-</a>
-
 # `KIRAN DIKSHIT MENON A`
 
 ### `SOC ANALYST L2` · `THREAT DETECTION` · `THREAT HUNTING` · `INCIDENT RESPONSE`
