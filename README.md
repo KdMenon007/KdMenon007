@@ -1,5 +1,3 @@
-### Final `README.md`
-
 ````markdown
 <div align="center">
 
@@ -48,93 +46,25 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers** acr
 
 ---
 
-# `professional_experience`
+## `security_operations`
 
-## `SECURADO PVT LTD — MUSCAT, OMAN`
-
-### `SOC ANALYST`
-
-**February 2021 — May 2024**
-
-```text
-12 SIEM CUSTOMERS
-34 EDR CUSTOMERS
-ENTERPRISE SOC OPERATIONS
-```
-
-### Security Monitoring & Incident Response
-
-* Monitored, triaged and investigated security alerts across **FortiSIEM, ArcSight, Splunk, Elastic and SentinelOne**.
-* Investigated incidents from **alert validation through containment, remediation, recovery and root cause analysis**.
-* Correlated endpoint, network, authentication, email and security telemetry to determine the scope and impact of suspicious activity.
-* Performed investigations across **Windows and Linux** environments.
-
-### Threat Detection & Hunting
-
-* Conducted proactive threat hunting across SIEM and EDR environments using **threat intelligence, OSINT, IOC searches and behavioural analysis**.
-* Used **MITRE ATT&CK** to map attacker behaviour and investigation findings to relevant techniques.
-* Created, reviewed and tuned **SIEM detection rules and security use cases**.
-* Correlated multiple telemetry sources to improve alert quality and reduce false positives.
-
-### Malware, Phishing & Email Security
-
-* Investigated malware, phishing and suspicious email activity.
-* Analysed **email headers, URLs, attachments, payloads and IOCs** to determine malicious activity and scope.
-* Investigated domains, IP addresses, URLs, hashes and email indicators using threat intelligence and OSINT.
-
-### Endpoint & DFIR
-
-* Performed endpoint and digital forensic investigations using:
-
-  * `Autopsy`
-  * `KAPE`
-  * `Volatility`
-  * `Velociraptor`
-  * `Redline`
-* Supported evidence collection, system analysis, memory analysis, cleanup, reimaging and root cause analysis.
-
-### Network Security
-
-* Analysed network traffic using:
-
-  * `Wireshark`
-  * `Zeek`
-  * `Brim / Zui`
-  * `NetworkMiner`
-* Investigated suspicious connections, command-and-control activity, malicious traffic and potential lateral movement.
-
-### Vulnerability Management & Security Governance
-
-* Supported **Tenable Nessus** vulnerability assessments including finding validation, risk prioritisation and remediation coordination.
-* Worked with IT, Network, Infrastructure, Security and Red Team teams during incidents and vulnerability assessments.
-* Supported **ISO 27001 activities and SOC reporting** by providing security investigation information and operational evidence.
-
-### Automation & Documentation
-
-* Used **Cortex XSOAR** to automate repetitive SOC workflows and investigation tasks.
-* Created and maintained **incident response playbooks, investigation procedures and SOC documentation**.
+| Area                        | Focus                                                            |
+| --------------------------- | ---------------------------------------------------------------- |
+| 🛡️ SOC                     | Alert triage, investigation, escalation and incident handling    |
+| 🎯 Threat Detection         | Detection rules, use-case tuning and MITRE ATT&CK                |
+| 🔎 Threat Hunting           | Hypothesis-driven hunting, IOC analysis and behavioural analysis |
+| 🚨 Incident Response        | Scoping, containment, remediation, recovery and RCA              |
+| 🔬 DFIR                     | Endpoint investigation, evidence collection and memory analysis  |
+| 🌐 Network Security         | Wireshark, Zeek, Brim, NetworkMiner and traffic analysis         |
+| 📧 Email Security           | Phishing, headers, URLs, attachments, SPF, DKIM and DMARC        |
+| 🧠 Threat Intelligence      | OSINT, IOC enrichment and adversary analysis                     |
+| ⚙️ SOAR                     | Cortex XSOAR, playbooks and workflow automation                  |
+| 🔐 Vulnerability Management | Tenable Nessus, validation, prioritisation and remediation       |
+| 📋 Security Governance      | ISO 27001 support, operational evidence and SOC reporting        |
 
 ---
 
-# `security_operations`
-
-| Domain                      | Experience                                                    |
-| --------------------------- | ------------------------------------------------------------- |
-| 🛡️ Security Operations     | Alert triage, investigation, escalation, incident handling    |
-| 🎯 Threat Detection         | Detection rules, use-case tuning, MITRE ATT&CK                |
-| 🔎 Threat Hunting           | Hypothesis-driven hunting, IOC analysis, behavioural analysis |
-| 🚨 Incident Response        | Scoping, containment, remediation, recovery, RCA              |
-| 🔬 DFIR                     | Endpoint investigation, memory analysis, evidence collection  |
-| 🌐 Network Security         | Wireshark, Zeek, Brim, NetworkMiner, traffic analysis         |
-| 📧 Email Security           | Phishing, headers, URLs, attachments, SPF, DKIM, DMARC        |
-| 🧠 Threat Intelligence      | OSINT, IOC enrichment, domain/IP/hash investigation           |
-| ⚙️ SOAR                     | Cortex XSOAR, workflow automation, playbooks                  |
-| 🔐 Vulnerability Management | Tenable Nessus, validation, prioritisation, remediation       |
-| 📋 Security Governance      | ISO 27001 support, operational evidence, SOC reporting        |
-
----
-
-# `technical_stack`
+## `technical_stack`
 
 ### SIEM
 
@@ -182,9 +112,31 @@ ENTERPRISE SOC OPERATIONS
 
 ---
 
-# `performance_and_impact`
+## `professional_experience`
 
-<div align="center">
+### `SECURADO PVT LTD — MUSCAT, OMAN`
+
+**SOC Analyst | February 2021 — May 2024**
+
+* Monitored, triaged and investigated security alerts across **12 SIEM customers and 34 EDR customers** using FortiSIEM, ArcSight, Splunk, Elastic and SentinelOne.
+* Investigated security incidents from initial alert validation through **containment, remediation, recovery and root cause analysis**.
+* Performed proactive threat hunting across SIEM and EDR environments using **threat intelligence, OSINT, IOC searches and behavioural analysis**.
+* Used **MITRE ATT&CK** to map attacker behaviour and investigation findings to relevant techniques.
+* Created, reviewed and tuned **SIEM detection rules and security use cases**, correlating endpoint, network, email and authentication telemetry.
+* Investigated **malware, phishing and suspicious email activity**, including headers, URLs, attachments, payloads and IOCs.
+* Performed endpoint and digital forensic investigations using **Autopsy, KAPE, Volatility, Velociraptor and Redline**.
+* Analysed network traffic using **Wireshark, Zeek, Brim and NetworkMiner** to investigate suspicious connections, C2 activity, malicious traffic and potential lateral movement.
+* Investigated suspicious activity across **Windows and Linux** environments by correlating endpoint, network, authentication and security logs.
+* Used threat intelligence and OSINT to investigate **domains, IPs, URLs, hashes, email indicators and other IOCs**.
+* Worked with IT, Network, Infrastructure, Security and Red Team teams during incidents and vulnerability assessments.
+* Supported **Tenable Nessus** assessments, finding validation, risk prioritisation and remediation coordination.
+* Used **Cortex XSOAR** to automate repetitive SOC workflows and investigation tasks.
+* Created and maintained **incident response playbooks, investigation procedures and SOC documentation**.
+* Supported **ISO 27001 activities and SOC reporting** by providing security investigation information and operational evidence.
+
+---
+
+## `performance_and_impact`
 
 | Metric                      |          Value |
 | --------------------------- | -------------: |
@@ -196,11 +148,9 @@ ENTERPRISE SOC OPERATIONS
 | Technical Write-ups         |        **30+** |
 | Security Projects / Commits |       **100+** |
 
-</div>
-
 ---
 
-# `security_credentials`
+## `security_credentials`
 
 ### Certifications & Training
 
@@ -224,9 +174,9 @@ ENTERPRISE SOC OPERATIONS
 
 ---
 
-# `hands_on_security`
+## `hands_on_security`
 
-## TryHackMe
+### TryHackMe
 
 **506+ completed rooms**
 
@@ -234,23 +184,19 @@ ENTERPRISE SOC OPERATIONS
 
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-Mr.Professorx-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
 
----
-
-## Hack The Box
+### Hack The Box
 
 **#1,044 Global Rank**
 
-[![Hack The Box](https://img.shields.io/badge/HACK%20THE%20BOX-PROFILE-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/home)
+[![Hack The Box](https://img.shields.io/badge/HACK%20THE%20BOX-SECURITY%20LABS-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/home)
 
 ---
 
-# `research_and_projects`
+## `research_and_projects`
 
 ### 🔬 Secure Paper Publication using Data Mining
 
 Academic research project focused on secure paper submission and document handling.
-
-Areas included:
 
 `DATA INTEGRITY` · `ROLE-BASED ACCESS CONTROL` · `DOCUMENT SECURITY` · `CRYPTOGRAPHY`
 
@@ -263,7 +209,7 @@ ISSN 2250-1371
 
 ---
 
-# `security_labs`
+## `security_labs`
 
 ### 🛡️ SOC Investigation
 
@@ -335,7 +281,7 @@ RESIDUAL RISK
 
 ---
 
-# `technical_writing`
+## `technical_writing`
 
 I document technical investigations, security labs and research to turn practical work into reusable knowledge.
 
@@ -351,7 +297,7 @@ SECURITY OPERATIONS
 GRC / RISK
 ```
 
-### Writing & Research
+> **Learn → Investigate → Document → Improve**
 
 [![GitHub](https://img.shields.io/badge/GITHUB-WRITE--UPS-181717?style=for-the-badge\&logo=github)](https://github.com/KdMenon007)
 
@@ -363,47 +309,39 @@ GRC / RISK
 
 ---
 
-# `security_profiles`
+## `portfolio`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-KdMenon007-181717?style=for-the-badge\&logo=github)](https://github.com/KdMenon007)
+[![MAIN PORTFOLIO](https://img.shields.io/badge/MAIN%20PORTFOLIO-kdmenon007.github.io-00ff88?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kdmenon007.github.io/)
 
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-Mr.Professorx-212C42?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/Mr.Professorx)
+[![CANVA PORTFOLIO](https://img.shields.io/badge/CANVA%20PORTFOLIO-Kiran%20Menon-00d4ff?style=for-the-badge\&logo=canva\&logoColor=white)](https://kiranmenon.my.canva.site/)
 
-[![Hack The Box](https://img.shields.io/badge/HACK%20THE%20BOX-SECURITY%20LABS-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/home)
-
-[![Credly](https://img.shields.io/badge/CREDLY-CERTIFICATIONS-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
-
-[![Certificates](https://img.shields.io/badge/GITHUB-CERTIFICATES-00d4ff?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Certificates)
-
-[![Badges](https://img.shields.io/badge/GITHUB-BADGES-00d4ff?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Badges)
+[![FRAMER PORTFOLIO](https://img.shields.io/badge/FRAMER%20PORTFOLIO-Kiran%20Menon-00d4ff?style=for-the-badge\&logo=framer\&logoColor=white)](https://kiranmenon.framer.website/)
 
 </div>
 
 ---
 
-# `portfolio`
+## `security_profiles`
 
-<div align="center">
-
-### Main Cybersecurity Portfolio
-
-[![OPEN PORTFOLIO](https://img.shields.io/badge/OPEN-MAIN%20PORTFOLIO-00ff88?style=for-the-badge\&logo=google-chrome)](https://kdmenon007.github.io/)
-
-### Additional Portfolio
-
-[![CANVA](https://img.shields.io/badge/CANVA-PORTFOLIO-00d4ff?style=for-the-badge\&logo=canva)](https://kiranmenon.my.canva.site/)
-
-[![FRAMER](https://img.shields.io/badge/FRAMER-PORTFOLIO-00d4ff?style=for-the-badge\&logo=framer)](https://kiranmenon.framer.website/)
-
-</div>
+| Platform        | Profile                                                                     |
+| --------------- | --------------------------------------------------------------------------- |
+| 🐙 GitHub       | [KdMenon007](https://github.com/KdMenon007)                                 |
+| 🧪 TryHackMe    | [Mr.Professorx](https://tryhackme.com/p/Mr.Professorx)                      |
+| ⚔️ Hack The Box | [Hack The Box](https://app.hackthebox.com/home)                             |
+| 🎓 Credly       | [Kiran Dikshit Menon](https://www.credly.com/users/kiran-dikshit-menon-a)   |
+| 📝 Hashnode     | [Professorxx](https://hashnode.com/@professorxx)                            |
+| 📰 Medium       | [Kiran Menon](https://medium.com/@kiranmenon16)                             |
+| 🔬 HackerNoon   | [Professor](https://hackernoon.com/u/professor)                             |
+| 📜 Certificates | [48+ Cybersecurity Credentials](https://github.com/KdMenon007/Certificates) |
+| 🏅 Badges       | [66+ THM & HTB Badges](https://github.com/KdMenon007/Badges)                |
 
 ---
 
-# `education`
+## `education`
 
-## PES College of Engineering, Mandya
+### PES College of Engineering, Mandya
 
 **Master of Computer Applications — MCA**
 
@@ -420,7 +358,7 @@ Volume 9 · Issue 5 · May 2019 · ISSN 2250-1371
 
 ---
 
-# `current_focus`
+## `current_focus`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -440,7 +378,7 @@ Volume 9 · Issue 5 · May 2019 · ISSN 2250-1371
 
 ---
 
-# `security_mindset`
+## `security_mindset`
 
 ```text
 01. Don't blindly trust the alert.
@@ -459,7 +397,7 @@ Volume 9 · Issue 5 · May 2019 · ISSN 2250-1371
 
 ---
 
-# `connect`
+## `connect`
 
 <div align="center">
 
@@ -503,5 +441,3 @@ Volume 9 · Issue 5 · May 2019 · ISSN 2250-1371
 
 </div>
 ```
-
-One more thing: the `github-readme-stats.vercel.app` cards from your old README are **not necessary**. I removed them because your own metrics are much more relevant for an SOC recruiter than generic GitHub language/activity charts. Your README now sells **security evidence**, not coding vanity metrics.
