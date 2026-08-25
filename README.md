@@ -10,12 +10,12 @@
 
 ### SOC ANALYST L2 · THREAT DETECTION · THREAT HUNTING · INCIDENT RESPONSE
 
-Mysuru, Karnataka, India
+**Mysuru, Karnataka, India**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdmenon007.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KdMenon007)
-[![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kdmenon007.github.io-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdmenon007.github.io/)
+[![GitHub](https://img.shields.io/badge/GITHUB-KdMenon007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KdMenon007)
+[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED_BADGES-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
 
 `SECURITY OPERATIONS` · `THREAT DETECTION` · `THREAT HUNTING` · `INCIDENT RESPONSE`
 
@@ -44,7 +44,7 @@ Mysuru, Karnataka, India
 
 Cybersecurity professional with **3.3 years of hands-on enterprise SOC experience** across security monitoring, threat detection, threat hunting, incident response, DFIR, network security, threat intelligence and security automation.
 
-My experience includes supporting **12 SIEM customers and 34 EDR customers**, investigating security alerts and incidents across endpoint, network, email and authentication telemetry.
+Supported **12 SIEM customers and 34 EDR customers**, investigating security alerts and incidents across endpoint, network, email, authentication and security telemetry.
 
 ---
 
@@ -52,14 +52,14 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 
 ### SOC Analyst — Securado Pvt Ltd
 
-**Muscat, Oman · February 2021 – May 2024**
+**Muscat, Oman | February 2021 – May 2024**
 
 * Monitored, triaged and investigated security alerts for **12 SIEM customers and 34 EDR customers** using FortiSIEM, ArcSight, Splunk, Elastic and SentinelOne.
 * Investigated security incidents from **alert validation through containment, remediation, recovery and root cause analysis**, using log correlation, IOC analysis, endpoint investigation and threat intelligence.
 * Performed proactive **threat hunting** across SIEM and EDR environments using threat intelligence, OSINT, IOC searches and behavioural analysis.
 * Mapped attacker behaviour and investigation findings to **MITRE ATT&CK** techniques to support investigation accuracy and detection coverage.
 * Created, reviewed and tuned **SIEM detection rules and security use cases**, correlating endpoint, network, email and authentication telemetry to improve alert quality and reduce false positives.
-* Investigated **malware, phishing and suspicious email activity**, including email headers, URLs, attachments, payloads, IOCs and endpoint behaviour.
+* Investigated **malware, phishing and suspicious email activity**, analysing email headers, URLs, attachments, payloads, IOCs and endpoint behaviour.
 * Performed **endpoint and digital forensic investigations** using Autopsy, KAPE, Volatility, Velociraptor and Redline, including evidence collection, system analysis and memory analysis.
 * Analysed network traffic using **Wireshark, Zeek, Brim and NetworkMiner** to investigate suspicious connections, command-and-control activity, malicious traffic and potential lateral movement.
 * Investigated suspicious activity across **Windows and Linux** environments by correlating endpoint, network, authentication and security telemetry.
@@ -71,7 +71,7 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 
 ---
 
-## `security_stack`
+## `technical_skills`
 
 ### SIEM
 
@@ -146,8 +146,8 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 [04] DFIR & MALWARE
      ├── Evidence collection
      ├── Endpoint investigation
+     ├── System analysis
      ├── Memory analysis
-     ├── Malware investigation
      └── Root cause analysis
 
 [05] NETWORK & EMAIL SECURITY
@@ -169,8 +169,6 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 
 ## `performance_and_impact`
 
-<div align="center">
-
 | Metric                           |    Experience |
 | -------------------------------- | ------------: |
 | Enterprise SOC Experience        | **3.3 years** |
@@ -184,11 +182,9 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 | TryHackMe Global Rank            |    **#1,975** |
 | Hack The Box Global Rank         |    **#1,044** |
 
-</div>
-
 ---
 
-## `certifications_and_training`
+## `certifications`
 
 * **Cisco Cybersecurity Defense Analyst**
 * **IBM Threat Hunting for SOC Analysts**
@@ -207,11 +203,11 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 
 **17+ Cisco & IBM achievement badges**
 
-[![Certificates](https://img.shields.io/badge/Cybersecurity_Certificates-View_Repository-00D4FF?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Certificates)
+[![Certificates](https://img.shields.io/badge/CERTIFICATES-VIEW_REPOSITORY-00D4FF?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Certificates)
 
-[![Badges](https://img.shields.io/badge/Cybersecurity_Badges-View_Repository-00D4FF?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Badges)
+[![Badges](https://img.shields.io/badge/BADGES-VIEW_REPOSITORY-00D4FF?style=for-the-badge\&logo=github)](https://github.com/KdMenon007/Badges)
 
-[![Credly](https://img.shields.io/badge/Cisco_&_IBM_Badges-Credly-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
+[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED_BADGES-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
 
 ---
 
@@ -225,48 +221,48 @@ My experience includes supporting **12 SIEM customers and 34 EDR customers**, in
 
 **Global Rank: #1,975**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-VIEW_PROFILE-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
 
 ### Hack The Box
 
 **Global Rank: #1,044**
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-View_Profile-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/home)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-VIEW_PROFILE-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/home)
 
 ---
 
-## `technical_research`
+## `research_and_writeups`
 
-I document security investigations, labs and technical learning through hands-on research and write-ups.
+I document security investigations, technical learning and hands-on security research through labs, projects and technical write-ups.
 
 ```text
 30+ technical security write-ups
 100+ security projects / code commits
-Security research
 SOC investigations
 Threat hunting
 Network analysis
 DFIR
 Phishing analysis
 Security labs
+Threat intelligence
 GRC / risk management
 ```
 
-### Write-ups & Research
+### Research & Writing
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects_&_Research-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KdMenon007)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECTS_&_RESEARCH-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KdMenon007)
 
-[![Medium](https://img.shields.io/badge/Medium-Technical_Writeups-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@kiranmenon16)
+[![Medium](https://img.shields.io/badge/MEDIUM-TECHNICAL_WRITEUPS-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@kiranmenon16)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-Technical_Blogs-2962FF?style=for-the-badge\&logo=hashnode\&logoColor=white)](https://hashnode.com/@professorxx)
+[![Hashnode](https://img.shields.io/badge/HASHNODE-TECHNICAL_BLOGS-2962FF?style=for-the-badge\&logo=hashnode\&logoColor=white)](https://hashnode.com/@professorxx)
 
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-Security_Articles-00D9FF?style=for-the-badge)](https://hackernoon.com/u/professor)
+[![HackerNoon](https://img.shields.io/badge/HACKERNOON-SECURITY_ARTICLES-00D9FF?style=for-the-badge)](https://hackernoon.com/u/professor)
 
 ---
 
 ## `security_labs`
 
-### 🛡 SOC Investigation Lab
+### SOC Investigation
 
 ```text
 SIEM
@@ -284,7 +280,7 @@ Response
 Lessons Learned
 ```
 
-### 🎯 Threat Hunting Lab
+### Threat Hunting
 
 ```text
 Hypothesis
@@ -302,7 +298,7 @@ Validation
 Report
 ```
 
-### 🔬 DFIR Investigation
+### DFIR Investigation
 
 ```text
 Evidence
@@ -320,22 +316,20 @@ Root Cause
 Report
 ```
 
-### 🔐 GRC Operating Model
+### Security Risk & GRC
 
 ```text
-Governance
+Asset
+ ↓
+Threat
+ ↓
+Vulnerability
  ↓
 Risk
  ↓
-Controls
+Control
  ↓
-Ownership
- ↓
-RACI
- ↓
-Compliance
- ↓
-Assurance
+Residual Risk
 ```
 
 ---
@@ -344,7 +338,7 @@ Assurance
 
 ### Secure Paper Publication using Data Mining
 
-Academic research project focused on a secure paper-submission platform incorporating:
+Academic research project focused on secure paper submission incorporating:
 
 * Data integrity
 * Role-based access control
@@ -358,7 +352,7 @@ Volume 9 · Issue 5 · May 2019
 
 ISSN 2250-1371
 
-[![Research Paper](https://img.shields.io/badge/Research_Paper-Read_Publication-00D4FF?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/KdMenon007/secure-paper-publication/main/Paper%20Publication/Paper%20Publication_IJESC.pdf)
+[![Research Paper](https://img.shields.io/badge/RESEARCH_PAPER-READ_PUBLICATION-00D4FF?style=for-the-badge)](https://raw.githubusercontent.com/KdMenon007/secure-paper-publication/main/Paper%20Publication/Paper%20Publication_IJESC.pdf)
 
 ---
 
@@ -368,23 +362,45 @@ ISSN 2250-1371
 
 [![MAIN PORTFOLIO](https://img.shields.io/badge/MAIN_PORTFOLIO-kdmenon007.github.io-00D4FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kdmenon007.github.io/)
 
-[![CANVA](https://img.shields.io/badge/CANVA_PORTFOLIO-Kiran_Menon-00D4FF?style=for-the-badge\&logo=canva\&logoColor=white)](https://kiranmenon.my.canva.site/)
+[![CANVA](https://img.shields.io/badge/CANVA_PORTFOLIO-KIRAN_MENON-00D4FF?style=for-the-badge\&logo=canva\&logoColor=white)](https://kiranmenon.my.canva.site/)
 
-[![FRAMER](https://img.shields.io/badge/FRAMER_PORTFOLIO-Kiran_Menon-00D4FF?style=for-the-badge\&logo=framer\&logoColor=white)](https://kiranmenon.framer.website/)
+[![FRAMER](https://img.shields.io/badge/FRAMER_PORTFOLIO-KIRAN_MENON-00D4FF?style=for-the-badge\&logo=framer\&logoColor=white)](https://kiranmenon.framer.website/)
 
 </div>
 
 ---
 
-## `github_activity`
+## `education`
 
-<div align="center">
+**Master of Computer Applications (MCA)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=KdMenon007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
+PES College of Engineering, Mandya
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdMenon007&layout=compact&hide_border=true&theme=transparent" height="180"/>
+**2016 – 2019 · CGPA: 9.1/10**
 
-</div>
+Academic Research Publication:
+
+**Secure Paper Publication using Data Mining**
+
+---
+
+## `current_focus`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      CURRENT FOCUS                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [ ACTIVE ]  SOC Operations                                  ║
+║  [ ACTIVE ]  Threat Detection                                ║
+║  [ ACTIVE ]  Threat Hunting                                  ║
+║  [ ACTIVE ]  Incident Response                               ║
+║  [ ACTIVE ]  DFIR                                            ║
+║  [ ACTIVE ]  Security Automation                             ║
+║  [ ACTIVE ]  Security Risk / GRC                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -407,48 +423,27 @@ ISSN 2250-1371
 
 ---
 
-## `current_focus`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT FOCUS                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [ ACTIVE ]  SOC Operations                                  ║
-║  [ ACTIVE ]  Threat Detection                                ║
-║  [ ACTIVE ]  Threat Hunting                                  ║
-║  [ ACTIVE ]  Incident Response                               ║
-║  [ ACTIVE ]  DFIR                                            ║
-║  [ ACTIVE ]  Security Automation                             ║
-║  [ ACTIVE ]  GRC / Security Risk                             ║
-║  [ ACTIVE ]  Security Portfolio Development                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
 ## `connect`
 
 <div align="center">
 
-**Open to SOC, cybersecurity operations, threat detection and security opportunities.**
+**Open to SOC Analyst, Security Analyst, Threat Detection, Threat Hunting and Incident Response opportunities.**
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kdmenon007.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kdmenon007.github.io/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-KdMenon007-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KdMenon007)
+[![GitHub](https://img.shields.io/badge/GITHUB-KdMenon007-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KdMenon007)
 
-[![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
+[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED_BADGES-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-PROFILE-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
 
-[![Medium](https://img.shields.io/badge/Medium-@kiranmenon16-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@kiranmenon16)
+[![Medium](https://img.shields.io/badge/MEDIUM-@kiranmenon16-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@kiranmenon16)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-@professorxx-2962FF?style=for-the-badge\&logo=hashnode\&logoColor=white)](https://hashnode.com/@professorxx)
+[![Hashnode](https://img.shields.io/badge/HASHNODE-@professorxx-2962FF?style=for-the-badge\&logo=hashnode\&logoColor=white)](https://hashnode.com/@professorxx)
 
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-@professor-00D9FF?style=for-the-badge)](https://hackernoon.com/u/professor)
+[![HackerNoon](https://img.shields.io/badge/HACKERNOON-@professor-00D9FF?style=for-the-badge)](https://hackernoon.com/u/professor)
 
 </div>
 
@@ -470,5 +465,3 @@ ISSN 2250-1371
 
 </div>
 ```
-
-
