@@ -51,14 +51,12 @@ My approach is evidence-led: validate the alert, correlate telemetry, build a ti
 | SIEM customers supported | **12** |
 | EDR customers supported | **34** |
 | Cybersecurity credentials | **48+** |
-| TryHackMe rooms completed | **506+** |
+| TryHackMe live profile, rooms & ranking | [View current TryHackMe profile](https://tryhackme.com/p/Mr.Professorx) |
 | Technical security write-ups | **30+** |
 | Security projects / code commits | **100+** |
-| TryHackMe India rank | **#235** |
-| TryHackMe global rank | **#1,975** |
-| Hack The Box global rank | **#1,044** |
+| Hack The Box live profile & ranking | [View current Hack The Box profile](https://profile.hackthebox.com/profile/019f34e5-3f2e-7173-97f8-f25f8ed3d78c) |
 
-*Training-platform counts and rankings can change. These are previously recorded portfolio figures; use the linked profiles to check current standings.*
+*TryHackMe room counts and both platforms’ rankings can change. Visit the live profiles above for the latest available information instead of relying on fixed numbers in this README.*
 
 ---
 
