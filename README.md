@@ -12,9 +12,9 @@
 
 Mysuru, Karnataka, India
 
-[![MAIN PORTFOLIO](https://img.shields.io/badge/MAIN_PORTFOLIO-OPEN_SITE-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdmenon007.github.io/)
+[![MAIN PORTFOLIO](https://img.shields.io/badge/GITHUB-PORTFOLIO-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdmenon007.github.io/)
 [![FRAMER](https://img.shields.io/badge/FRAMER-PORTFOLIO-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://kiranmenon.framer.website/)
-[![CANVA](https://img.shields.io/badge/CANVA-PORTFOLIO-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://kiranmenon.my.canva.site/)
+[![CANVA](https://img.shields.io/badge/CANVA-PORTFOLIO-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://kiranmenon.my.canva.site/kiran-dikshit-menon-a-cybersecurity-portfolio)
 [![GITHUB](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KdMenon007)
 [![TRYHACKME](https://img.shields.io/badge/TRYHACKME-PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Mr.Professorx)
 [![CREDLY](https://img.shields.io/badge/CREDLY-CREDENTIALS-FF6B00?style=for-the-badge)](https://www.credly.com/users/kiran-dikshit-menon-a)
@@ -246,7 +246,7 @@ Academic research: *Secure Paper Publication using Data Mining.*
 - **Email:** [kiranmenon16@gmail.com](mailto:kiranmenon16@gmail.com)
 - **Main portfolio:** [kdmenon007.github.io](https://kdmenon007.github.io/)
 - **Framer portfolio:** [kiranmenon.framer.website](https://kiranmenon.framer.website/)
-- **Canva portfolio:** [kiranmenon.my.canva.site](https://kiranmenon.my.canva.site/)
+- **Canva portfolio:** [kiranmenon.my.canva.site](https://kiranmenon.my.canva.site/kiran-dikshit-menon-a-cybersecurity-portfolio)
 - **GitHub:** [github.com/KdMenon007](https://github.com/KdMenon007)
 - **Credly:** [Credential profile](https://www.credly.com/users/kiran-dikshit-menon-a)
 
