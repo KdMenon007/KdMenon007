@@ -50,7 +50,7 @@ My approach is evidence-led: validate the alert, correlate telemetry, build a ti
 | Enterprise SOC experience | **3.3 years** |
 | SIEM customers supported | **12** |
 | EDR customers supported | **34** |
-| Cybersecurity credentials | **48+** |
+| Cybersecurity credentials | **50+** |
 | TryHackMe live profile, rooms & ranking | [View current TryHackMe profile](https://tryhackme.com/p/Mr.Professorx) |
 | Technical security write-ups | **30+** |
 | Security projects / code commits | **100+** |
@@ -169,7 +169,7 @@ Asset → Threat → Vulnerability → Risk → Control → Residual Risk
 - Certified Network Security Specialist (CNSS)
 - TryHackMe SOC Level 1 and SOC Level 2
 
-**Portfolio-reported totals:** 48+ cybersecurity credentials · 66+ TryHackMe / Hack The Box badges · 17+ Cisco / IBM achievement badges.
+**Portfolio-reported totals:** 50+ cybersecurity credentials · 66+ TryHackMe / Hack The Box badges · 17+ Cisco / IBM achievement badges.
 
 [![CERTIFICATES](https://img.shields.io/badge/CERTIFICATES-VIEW_REPOSITORY-00D4FF?style=for-the-badge&logo=github)](https://github.com/KdMenon007/Certificates)
 [![BADGES](https://img.shields.io/badge/BADGES-VIEW_REPOSITORY-00D4FF?style=for-the-badge&logo=github)](https://github.com/KdMenon007/Badges)
